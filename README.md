@@ -1,5 +1,7 @@
 # duck_hud
  Hud for ML_NEEDS, might update this in the future with more designs. Feel free to edit as you desire.
+ 
+ Does contain features to add stress/oxygen etc already (they are just commented out in html)
 
 ![alt text](https://i.imgur.com/aaHpzh2.png)
 
