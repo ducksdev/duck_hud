@@ -5,6 +5,8 @@
 
 # Usage
  Start this after ml_needs
+ 
+ Edit ml_needs/HUD.lua and comment all of the drawRct lines 31-58.
 
 # Requirements
  ml_needs
